@@ -163,12 +163,6 @@ Guidelines:
 - Coverage: if you use Codecov or Coveralls
 - Docs: if you host docs (GitHub Pages / ReadTheDocs)
 
-Example GitHub Actions badge:
-[![CI](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/actions/workflows/ci.yml/badge.svg)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/actions)
-
-Example coverage badge:
-[![Coverage Status](https://coveralls.io/repos/github/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/badge.svg)](https://coveralls.io/github/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)
-
 ## License
 This repository is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
