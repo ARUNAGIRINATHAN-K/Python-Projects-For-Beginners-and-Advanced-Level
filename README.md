@@ -152,17 +152,6 @@ Contributions are welcome! Please follow these steps:
 5. Commit and push your branch.
 6. Open a Pull Request describing your changes.
 
-Guidelines:
-- Write clear commit messages.
-- Keep each PR focused.
-- Add or update project README where relevant.
-- Respect the existing code style. Consider adding a `pyproject.toml` or `.flake8` for consistent linting.
-
-## Recommended Badges (replace USERNAME/REPO_NAME)
-- Build / CI: add your GitHub Actions, Travis, or CircleCI badge
-- Coverage: if you use Codecov or Coveralls
-- Docs: if you host docs (GitHub Pages / ReadTheDocs)
-
 ## License
 This repository is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
