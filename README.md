@@ -3,7 +3,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?color=blue)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)
 [![License](https://img.shields.io/github/license/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?color=green)](LICENSE)
 [![Python Versions](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Contributors](https://img.shields.io/github/contributors/USERNAME/REPO_NAME)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?style=social)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/stargazers)
 [![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?style=social)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/network/members)
 [![Issues](https://img.shields.io/github/issues/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/issues)
@@ -13,10 +13,25 @@
 
 ![Contributors](https://img.shields.io/github/contributors/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?color=blue)
 
-<a href="https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level" />
-</a>
+  <a href="https://github.com/ARUNAGIRINATHAN-K">
+    <img src="https://avatars.githubusercontent.com/ARUNAGIRINATHAN-K" width="80" style="border-radius:50%;" />
+  </a>
+  
+  <a href="https://github.com/GOPIKRISHNAN-S-15">
+    <img src="https://avatars.githubusercontent.com/GOPIKRISHNAN-S-15" width="80" style="border-radius:50%;" />
+  </a>
+  
+  <a href="https://github.com/Aakash02A">
+    <img src="https://avatars.githubusercontent.com/Aakash02A" width="80" style="border-radius:50%;" />
+  </a>
 
+   <a href="https://github.com/Code-master31">
+    <img src="https://avatars.githubusercontent.com/Code-master31" width="80" style="border-radius:50%;" />
+  </a>
+
+
+
+Code-master31
 <br>
 
 
