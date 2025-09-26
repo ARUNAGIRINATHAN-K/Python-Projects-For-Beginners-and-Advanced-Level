@@ -74,8 +74,6 @@ _Use this repo to learn, fork for your portfolio, or adapt solutions for your ow
 29. Unit Converter (CLI)
 30. Multiplayer Socket Game (basic)
 
-(If your repo structures projects differently, update this list to match your folder names and add links.)
-
 ## Getting Started
 
 ### Requirements
