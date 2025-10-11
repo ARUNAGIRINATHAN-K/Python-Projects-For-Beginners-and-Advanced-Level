@@ -1,17 +1,17 @@
 # 30+ Python Projects — Solved and Explained
 
-[![Repo Size](https://img.shields.io/github/repo-size/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?color=blue)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)
-[![License](https://img.shields.io/github/license/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?color=green)](LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/ARUNAGIRINATHAN-K/Python-Projects?color=blue)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)
+[![License](https://img.shields.io/github/license/ARUNAGIRINATHAN-K/Python-Projects?color=green)](LICENSE)
 [![Python Versions](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Contributors](https://img.shields.io/github/contributors/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?style=social)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/stargazers)
-[![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?style=social)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/network/members)
-[![Issues](https://img.shields.io/github/issues/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/ARUNAGIRINATHAN-K/Python-Projects)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/Python-Projects?style=social)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects/stargazers)
+[![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/Python-Projects?style=social)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects/network/members)
+[![Issues](https://img.shields.io/github/issues/ARUNAGIRINATHAN-K/Python-Projects)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/Python-Projects)](https://github.com/ARUNAGIRINATHAN-K/Python-Projects/commits/main)
 
 ## 👥 Contributors
 
-![Contributors](https://img.shields.io/github/contributors/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level?color=blue)
+![Contributors](https://img.shields.io/github/contributors/ARUNAGIRINATHAN-K/Python-Projects?color=blue)
 
   <a href="https://github.com/ARUNAGIRINATHAN-K">
     <img src="https://avatars.githubusercontent.com/ARUNAGIRINATHAN-K" width="80" style="border-radius:50%;" />
@@ -21,10 +21,6 @@
     <img src="https://avatars.githubusercontent.com/GOPIKRISHNAN-S-15" width="80" style="border-radius:50%;" />
   </a>
   
-  <a href="https://github.com/Aakash02A">
-    <img src="https://avatars.githubusercontent.com/Aakash02A" width="80" style="border-radius:50%;" />
-  </a>
-
    <a href="https://github.com/Code-master31">
     <img src="https://avatars.githubusercontent.com/Code-master31" width="80" style="border-radius:50%;" />
   </a>
@@ -85,7 +81,7 @@ _Use this repo to learn, fork for your portfolio, or adapt solutions for your ow
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level.git
+git clone https://github.com/ARUNAGIRINATHAN-K/Python-Projects.git
 cd REPO_NAME
 ```
 
